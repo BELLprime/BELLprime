@@ -26,7 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=JACK-Prime&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jack-prime&label=Profile%20views&color=0e75b6&style=flat" alt="jack-prime" /> </p>
 
