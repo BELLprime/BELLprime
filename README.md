@@ -17,3 +17,31 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jack-prime&show_icons=true&locale=en" alt="jack-prime" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-prime&" alt="jack-prime" /></p>
+
+
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://discord.gg/tezDv9EU" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/natthakit.natthakit.12/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+
+###
