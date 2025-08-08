@@ -1,5 +1,4 @@
-
-![Uploading the big bang theory bazinga GIF.gif…]()
+![the big bang theory bazinga GIF](https://github.com/user-attachments/assets/0e45a0bc-b9d8-4ce8-9ea4-f18f35cc416f)
 
 # 💫 About Me:
 
