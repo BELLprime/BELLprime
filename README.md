@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👋 Hello! I'm Natthakit Rodruean, you can call me "Bell"<br><br>➡️ 🎓 Education<br>- Currently a student at "Rajamangala University of Technology Lanna"<br>- Faculty: Engineering<br>- Major: Software Engineering (SE)<br><br>➡️ 💡 Interests<br>- Technology and innovation<br>- Programming and problem-solving<br>- Robotics <br><br>➡️ 🛠️ Skills<br>- Programming Languages: C, C++, Python<br>- Basic web development (HTML, CSS)<br>- Team collaboration and critical thinking<br><br>➡️📫 Contact Me<br>- Email: natthakitrodruean@gmail.com<br>- GitHub: https://github.com/JACK-Prime
+👋 Hello! I'm Natthakit Rodruean, you can call me "Bell"<br><br>➡️ 🎓 Education<br>- Currently a student at "Rajamangala University of Technology Lanna"<br>- Faculty: Engineering<br>- Major: Software Engineering (SE)<br><br>➡️ 💡 Interests<br>- Technology and innovation<br>- Programming and problem-solving<br>- Robotics <br><br>➡️ 🛠️ Skills<br>- Programming Languages: C, C++, Python<br>- Basic web development (HTML, CSS)<br>- Team collaboration and critical thinking<br><br>➡️📫 Contact Me<br>- Email: natthakitrodruean@gmail.com<br>- GitHub: https://github.com/BELLprime
 
 
 ## 🌐 Socials:
