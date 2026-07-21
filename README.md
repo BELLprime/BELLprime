@@ -53,17 +53,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BELLprime&show_icons=true&theme=algolia&hide_border=true&bg_color=1a1a1a&title_color=FFD700&icon_color=B8860B&text_color=ffffff&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BELLprime&show_icons=true&theme=algolia&hide_border=true&bg_color=1a1a1a&title_color=FFD700&icon_color=B8860B&text_color=ffffff&count_private=true)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BELLprime&theme=highcontrast&hide_border=true&background=1a1a1a&ring=FFD700&fire=8B0000&currStreakLabel=FFD700)
+![Streak Stats](https://streak-stats.demolab.com?user=BELLprime&theme=highcontrast&hide_border=true&background=1a1a1a&ring=FFD700&fire=8B0000&currStreakLabel=FFD700)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BELLprime&layout=compact&theme=algolia&hide_border=true&bg_color=1a1a1a&title_color=FFD700&text_color=ffffff&count_private=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BELLprime&layout=compact&theme=algolia&hide_border=true&bg_color=1a1a1a&title_color=FFD700&text_color=ffffff&count_private=true)
 
 </div>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=BELLprime&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=BELLprime&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
