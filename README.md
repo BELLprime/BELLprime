@@ -96,11 +96,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BELLprime&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FFD700&icon_color=2d6a4f&text_color=c9d1d9&ring_color=FFD700&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BELLprime&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FFD700&icon_color=2d6a4f&text_color=c9d1d9&ring_color=FFD700&count_private=true)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BELLprime&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FFD700&text_color=c9d1d9&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BELLprime&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FFD700&text_color=c9d1d9&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BELLprime&hide_border=true&background=1a1a2e&ring=FFD700&fire=FF6347&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=2d6a4f)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BELLprime&hide_border=true&background=1a1a2e&ring=FFD700&fire=FF6347&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=2d6a4f)
 
 </div>
 
@@ -174,6 +174,7 @@
 
 ---
 
+<br>
 
 <div align="center">
 
@@ -181,6 +182,7 @@
 
 </div>
 
+<br>
 
 <div align="center">
 
