@@ -1,32 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=300&section=header&text=B%20E%20L%20L%20p%20r%20i%20m%20e&fontSize=60&fontColor=FFD700&fontAlignY=28&desc=🔥%20One%20Does%20Not%20Simply%20Walk%20Into%20My%20GitHub%20🔥&descAlignY=52&descSize=22&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     🔥 THE DARK HEADER 🔥                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=300&section=header&text=BELLprime&fontSize=70&fontColor=FFD700&fontAlignY=35&desc=%F0%9F%94%A5%20One%20Does%20Not%20Simply%20Walk%20Into%20My%20GitHub%20%F0%9F%94%A5&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="420" alt="The One Ring" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     💍 THE ONE RING GIF 💍                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="450" alt="The One Ring" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=ONE+DOES+NOT+SIMPLY+WRITE+CLEAN+CODE+ON+THE+FIRST+TRY;A+WIZARD+IS+NEVER+LATE...+HE+COMMITS+PRECISELY+WHEN+HE+MEANS+TO;THEY'RE+TAKING+THE+HOBBITS+TO+STACK+OVERFLOW;MY+PRECIOUS...+PRECIOUS+SEMICOLONS;YOU+SHALL+NOT+PASS...+NULL+TO+THIS+FUNCTION;I+SEE+YOU+👁%EF%B8%8F+...+LOOKING+AT+MY+REPOS;WHAT+ABOUT+SECOND+git+push+%3F;PO-TAY-TOES!+BOIL+'EM+MASH+'EM+STICK+'EM+IN+A+REPO;THAT+STILL+ONLY+COUNTS+AS+ONE+COMMIT" alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ✨ TYPING ANIMATION ✨                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=24&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=ONE+DOES+NOT+SIMPLY+WRITE+CLEAN+CODE;A+WIZARD+IS+NEVER+LATE...+HE+COMMITS+WHEN+HE+MEANS+TO;THEY+ARE+TAKING+THE+HOBBITS+TO+STACK+OVERFLOW;MY+PRECIOUS...+PRECIOUS+SEMICOLONS;YOU+SHALL+NOT+PASS+NULL+TO+THIS+FUNCTION;WHAT+ABOUT+SECOND+git+push;PO-TAY-TOES!+FORK+EM+CLONE+EM+PUT+EM+IN+A+REPO;THAT+STILL+ONLY+COUNTS+AS+ONE+COMMIT" alt="Typing SVG" />
 
 </div>
 
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   💍 ASCII ART ONE RING 💍                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠛⠉⠉⠉⠉⠉⠉⠉⠛⢿⣿⣦⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀ ONE RING  ⠀⠀⠙⣿⣧⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀  TO RULE   ⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣿⣧⠀⠀ ALL REPOS  ⠀⠀⠀⣼⣿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠸⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⠃⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣴⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⠿⠿⠿⠿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⣠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⡀
+          ⠀⠀⣴⣿⡿⠛⠉⠉⠉⠉⠉⠛⢿⣿⣦
+          ⠀⣼⣿⠋   ONE RING   ⠙⣿⣧
+          ⢸⣿⡇    TO RULE    ⢸⣿⡇
+          ⠀⣿⣧   ALL REPOS   ⣼⣿
+          ⠀⠸⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⠃
+          ⠀⠀⠙⢿⣿⣤⣤⣤⣤⣤⣤⣴⣿⡿⠃
+          ⠀⠀⠀⠀⠈⠛⠿⠿⠿⠿⠛⠁
 ```
 
 </div>
@@ -34,6 +50,10 @@
 ---
 
 <br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              🧙‍♂️ WHO AM I — A HOBBIT WHO CODES 🧙‍♂️                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧙‍♂️ `whoami` — A HOBBIT WHO CODES
 
@@ -41,33 +61,37 @@
 
 | | |
 |---|---|
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV3NXZ2aTZiZTg1eDFhd3JnMTJma3NtdXFnaWVtMWQ1NmNwM3JtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6EQzurTgVoOSc/giphy.gif" width="300" alt="Gandalf"/> | **Name:** Natthakit Rodruean (Bell) <br> **Race:** Hobbit-Developer of the Shire 🧑‍💻 <br> **Class:** Software Engineering Student <br> **Guild:** Rajamangala University of Technology Lanna <br> **Title:** The Ring-Bearer of Bugs <br> **Alignment:** Chaotic Good (but my code is Chaotic Evil) <br><br> *"All we have to decide is what to do with the bugs that are given to us."* |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV3NXZ2aTZiZTg1eDFhd3JnMTJma3NtdXFnaWVtMWQ1NmNwM3JtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6EQzurTgVoOSc/giphy.gif" width="300" alt="Gandalf"/> | **Name:** Natthakit Rodruean (Bell) <br> **Race:** Hobbit-Developer of the Shire <br> **Class:** Software Engineering Student <br> **Guild:** Rajamangala University of Technology Lanna <br> **Title:** The Ring-Bearer of Bugs <br> **Alignment:** Chaotic Good (but my code is Chaotic Evil) <br><br> *"All we have to decide is what to do with the bugs that are given to us."* |
 
 </div>
 
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    💍 THE MEME PROPHECY 💍                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💍 THE MEME PROPHECY
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   Three PRs for the Elven-devs on their MacBooks,        │
-│     Seven bugs for the Dwarf-lords and their debug,      │
-│   Nine stack traces for mortal students doomed to cry,    │
-│     One commit for the Dark Lord on his dark IDE          │
-│   In the Land of GitHub where the Shadows lie.           │
-│                                                          │
-│   One Commit to rule them all,                           │
-│     One Commit to find them,                             │
-│   One Commit to bring them all,                          │
-│     and in the main branch bind them.                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   Three PRs for the Elven-devs on their MacBooks,            ║
+ ║     Seven bugs for the Dwarf-lords and their debug,          ║
+ ║   Nine stack traces for mortal students doomed to cry,       ║
+ ║     One commit for the Dark Lord on his dark IDE             ║
+ ║   In the Land of GitHub where the Shadows lie.               ║
+ ║                                                              ║
+ ║   One Commit to rule them all,                               ║
+ ║     One Commit to find them,                                 ║
+ ║   One Commit to bring them all,                              ║
+ ║     and in the main branch bind them.                        ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -75,6 +99,10 @@
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🗡️ MEME GALLERY 🗡️                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🗡️ MEME-DLEEARTH ADVENTURES
 
@@ -82,41 +110,102 @@
 
 ### 😤 One Does Not Simply...
 
+<img src="./memes/one_does_not_simply.jpg" width="550" alt="One Does Not Simply Write Code Without Bugs" />
+
+<br><br>
+
 | The Meme | The Reality |
 |:---:|:---:|
 | One does not simply write code without bugs | But I try anyway 💀 |
 | One does not simply understand recursion | Unless you understand recursion 🤯 |
 | One does not simply push to main | *...force pushes to main at 3 AM* 😈 |
-| One does not simply close all Chrome tabs | Each tab is a Horcrux— wait wrong franchise 💀 |
+| One does not simply close all Chrome tabs | Each tab is a Horcrux— wait wrong franchise |
 
 <br>
 
-### 🧙 Gandalf's Coding Wisdom
+---
+
+### 🧙 YOU SHALL NOT PASS (null)
+
+<img src="./memes/you_shall_not_pass.jpg" width="550" alt="You Shall Not Pass Null" />
+
+<br>
 
 ```
-              ___
-             ( . .)
-              |>  |>
-             /|   |\
-            / |   | \
-           
      "YOU SHALL NOT PASS...
-     ...null to this function
-      without proper validation"
+      ...null to this function
+       without proper validation"
           
-           — Gandalf the Grey-hat Developer
+      — Gandalf the Grey-hat Developer
 ```
 
 <br>
 
-### 🍟 What's Taters, Precious?
+---
+
+### 💍 My Precious... Semicolons
+
+<img src="./memes/my_precious_code.jpg" width="550" alt="My Precious Semicolons" />
+
+<br>
 
 ```
-Sam:  "PO-TAY-TOES!"
-      "Boil 'em, mash 'em, stick 'em in a repo"
+  Me at 3 AM staring at my code:
+  
+  Gollum voice: "We wants it... we NEEDS it...
+                 Must have the PRECIOUS... 
+                 ...working code"
+                 
+  Also me:      *Adds console.log everywhere*
+```
 
-Me:   "PO-TAY-TOES!"  
-      "Fork 'em, clone 'em, stick 'em in a branch"
+<br>
+
+---
+
+### 🍟 PO-TAY-TOES!
+
+<img src="./memes/potatoes_repo.jpg" width="550" alt="Fork em Clone em Stick em in a Repo" />
+
+<br>
+
+```
+  Sam:    "PO-TAY-TOES!"
+          "Boil 'em, mash 'em, stick 'em in a stew"
+
+  DevSam: "RE-PO-SI-TORIES!"  
+          "Fork 'em, clone 'em, stick 'em in a branch"
+```
+
+<br>
+
+---
+
+### 🏹 That Still Only Counts As...
+
+<img src="./memes/legolas_that_counts.jpg" width="550" alt="That Still Only Counts As One Commit" />
+
+<br>
+
+*Me after fixing 47 files, refactoring 3 modules, and rewriting the entire database layer:*
+
+> **Legolas:** *"That still only counts as ONE commit"* 💀
+
+<br>
+
+---
+
+### 🍳 What About Second git push?
+
+<img src="./memes/second_breakfast.jpg" width="550" alt="What About Second git push" />
+
+<br>
+
+```
+  Pippin: "What about second git push?"
+  Merry:  "I don't think the CI/CD pipeline 
+           knows about second git push, Pip."
+  Pippin: 😧
 ```
 
 </div>
@@ -124,6 +213,10 @@ Me:   "PO-TAY-TOES!"
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ⚔️ MY PRECIOUS TECH STACK ⚔️                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚔️ MY PRECIOUS... TECH STACK
 
@@ -131,16 +224,14 @@ Me:   "PO-TAY-TOES!"
 
 <div align="center">
 
-### ⚔️ Weapons of Middle-Earth
-
-![C](https://img.shields.io/badge/C-%F0%9F%97%A1%EF%B8%8F_Andúril_(Segfaults_Included)-8B0000?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=0d0d0d)
-![Python](https://img.shields.io/badge/Python-%F0%9F%A7%99_Gandalf's_Staff_(import_magic)-8B0000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0d0d0d)
-![Java](https://img.shields.io/badge/Java-%F0%9F%A6%8D_Legolas'_Bow_(verbose_af)-8B0000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=0d0d0d)
-![HTML5](https://img.shields.io/badge/HTML5-%F0%9F%94%A5_Eye_of_Sauron_(I_see_your_DOM)-8B0000?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=0d0d0d)
-![CSS3](https://img.shields.io/badge/CSS3-%E2%9C%A8_Mithril_Armor_(centering_a_div_is_the_real_quest)-8B0000?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=0d0d0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-%F0%9F%92%8D_The_One_Ring_(undefined_is_not_a_function)-8B0000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=0d0d0d)
-![Git](https://img.shields.io/badge/Git-%F0%9F%93%9C_The_Palantír_(shows_the_blame)-8B0000?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=0d0d0d)
-![Arduino](https://img.shields.io/badge/Arduino-%E2%9A%99%EF%B8%8F_Dwarven_Craft_of_Erebor-8B0000?style=for-the-badge&logo=arduino&logoColor=FFD700&labelColor=0d0d0d)
+![C](https://img.shields.io/badge/C-Anduril_(Segfaults_Included)-8B0000?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=0d0d0d)
+![Python](https://img.shields.io/badge/Python-Gandalf's_Staff_(import_magic)-8B0000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0d0d0d)
+![Java](https://img.shields.io/badge/Java-Legolas'_Bow_(verbose_af)-8B0000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=0d0d0d)
+![HTML5](https://img.shields.io/badge/HTML5-Eye_of_Sauron_(I_see_your_DOM)-8B0000?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=0d0d0d)
+![CSS3](https://img.shields.io/badge/CSS3-Mithril_Armor_(centering_divs_is_the_quest)-8B0000?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=0d0d0d)
+![JavaScript](https://img.shields.io/badge/JavaScript-The_One_Ring_(undefined_is_not_a_function)-8B0000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=0d0d0d)
+![Git](https://img.shields.io/badge/Git-The_Palantir_(shows_the_blame)-8B0000?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=0d0d0d)
+![Arduino](https://img.shields.io/badge/Arduino-Dwarven_Craft_of_Erebor-8B0000?style=for-the-badge&logo=arduino&logoColor=FFD700&labelColor=0d0d0d)
 
 </div>
 
@@ -148,23 +239,28 @@ Me:   "PO-TAY-TOES!"
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     🗺️ THE QUEST LOG 🗺️                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🗺️ THE QUEST LOG
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                    ⚔️ QUEST LOG ⚔️                      ║
+║                    ⚔️  QUEST LOG  ⚔️                     ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  [■■■■■■■■■□] 90% - Survive University             🏰  ║
-║  [■■■■■□□□□□] 50% - Learn to center a div           😭  ║
-║  [■■■■■■□□□□] 60% - Fix all bugs before deadline    🐛  ║
-║  [■□□□□□□□□□] 10% - Understand regex                🤯  ║
-║  [■■■■■■■■■■] 100% - Procrastinate                  😎  ║
-║  [□□□□□□□□□□]  0% - Get 8 hours of sleep            💀  ║
-║  [■■■■■■■■□□] 80% - Carry bugs to Mount Doom        🌋  ║
-║  [■■■□□□□□□□] 30% - Write documentation             📝  ║
+║  [■■■■■■■■■□] 90%  Survive University              🏰  ║
+║  [■■■■■□□□□□] 50%  Learn to center a div            😭  ║
+║  [■■■■■■□□□□] 60%  Fix all bugs before deadline     🐛  ║
+║  [■□□□□□□□□□] 10%  Understand regex                 🤯  ║
+║  [■■■■■■■■■■] 100% Procrastinate                    😎  ║
+║  [□□□□□□□□□□]  0%  Get 8 hours of sleep             💀  ║
+║  [■■■■■■■■□□] 80%  Carry bugs to Mount Doom         🌋  ║
+║  [■■■□□□□□□□] 30%  Write documentation              📝  ║
+║  [■■■■■■■■■■] 100% Add console.log for debugging    🔥  ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -175,19 +271,23 @@ Me:   "PO-TAY-TOES!"
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                📊 SAURON WATCHES MY STATS 📊                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📊 THE EYE OF SAURON WATCHES MY STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BELLprime&show_icons=true&theme=radical&title_color=FFD700&icon_color=FF4500&text_color=D4AF37&bg_color=0d0d0d&border_color=8B0000&hide_border=false&ring_color=FF4500" alt="stats" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BELLprime&show_icons=true&theme=dark&title_color=FFD700&icon_color=FF4500&text_color=D4AF37&bg_color=0d0d0d&border_color=8B0000" alt="GitHub Stats" width="495"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BELLprime&theme=dark&background=0d0d0d&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=D4AF37&border=8B0000&currStreakNum=FFD700&sideNums=D4AF37&dates=666666" alt="streak" width="495"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BELLprime&theme=dark&background=0d0d0d&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=D4AF37&border=8B0000&currStreakNum=FFD700&sideNums=D4AF37&dates=666666" alt="GitHub Streak" width="495"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELLprime&layout=compact&theme=radical&title_color=FFD700&text_color=D4AF37&bg_color=0d0d0d&border_color=8B0000" alt="langs" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELLprime&layout=compact&theme=dark&title_color=FFD700&text_color=D4AF37&bg_color=0d0d0d&border_color=8B0000" alt="Top Languages" width="380"/>
 
 </div>
 
@@ -195,18 +295,22 @@ Me:   "PO-TAY-TOES!"
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🗡️ COUNCIL OF BELLrond 🗡️                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🗡️ THE COUNCIL OF BELLrond — MY REPOS
 
 <div align="center">
 
 ```
-                    ⚔️ THE COUNCIL HAS DECIDED ⚔️
+                     ⚔️ THE COUNCIL HAS DECIDED ⚔️
                     
-     "We must send these repositories to GitHub...
-              ...but who will carry them?"
+      "We must send these repositories to GitHub...
+               ...but who will carry them?"
                     
-                        "I will."
-                      — BELLprime
+                         "I will."
+                       — BELLprime
 
     📦 ENGSE216-Data-Structures-and-Algorithms (Java)
        └── "One does not simply sort an array"
@@ -227,43 +331,35 @@ Me:   "PO-TAY-TOES!"
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                🌋 A DAY IN MOUNT DOOM 🌋                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🌋 A DAY IN MOUNT DOOM (My Daily Routine)
 
 <div align="center">
 
-```
-☀️ Morning:   "So it begins..." *opens VS Code*
-               
-🐛 10:00 AM:  "What is this new devilry?" *sees a bug*
-
-☕ 11:00 AM:  *Drinks second coffee* 
-              "Keep your forked tongue behind your teeth"
-              
-🍝 12:00 PM:  *Lunch break*
-              "What about second breakfast?"
-              "I don't think he knows about second breakfast, Pip"
-              
-💀 2:00 PM:   *Error on line 42*
-              "Cast it into the fire! Destroy it!"
-              *Adds console.log instead*
-              
-😤 4:00 PM:   *PR rejected*
-              "IT'S BEEN CALLED A MINE... 
-               ...A MINE OF TECHNICAL DEBT!"
-               
-🌙 11:00 PM:  "I can't carry the project for you...
-               but I can carry you!" *copies from Stack Overflow*
-               
-🕐 3:00 AM:   "It's over... it's done." *pushes to main*
-              *CI/CD fails*
-              "HOW DO YOU PICK UP THE THREADS OF AN OLD LIFE?"
-```
+| Time | What Happens | LOTR Quote |
+|:---:|:---:|:---|
+| ☀️ 8:00 AM | Opens VS Code | *"So it begins..."* |
+| 🐛 10:00 AM | Sees first bug | *"What is this new devilry?"* |
+| ☕ 11:00 AM | Second coffee | *"Keep your forked tongue behind your teeth"* |
+| 🍝 12:00 PM | Lunch break | *"What about second breakfast?"* |
+| 💀 2:00 PM | Error on line 42 | *"Cast it into the fire! Destroy it!"* |
+| 😤 4:00 PM | PR rejected | *"A mine... A MINE OF TECHNICAL DEBT!"* |
+| 🌙 11:00 PM | Copies from SO | *"I can't carry it for you, but I can carry you!"* |
+| 🕐 3:00 AM | Pushes to main | *"It's over... it's done."* |
+| 💥 3:01 AM | CI/CD fails | *"HOW DO YOU PICK UP THE THREADS OF AN OLD LIFE?"* |
 
 </div>
 
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               🧝 FELLOWSHIP ALIGNMENT CHART 🧝                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧝 THE FELLOWSHIP ALIGNMENT CHART
 
@@ -272,8 +368,8 @@ Me:   "PO-TAY-TOES!"
 | | **Lawful** | **Neutral** | **Chaotic** |
 |:---:|:---:|:---:|:---:|
 | **Good** | Writes unit tests | Uses Stack Overflow | `git push --force` at 3 AM |
-| **Neutral** | Follows code conventions | Copy-pastes responsibly | `// TODO: fix later` (never fixed) |
-| **Evil** | Writes documentation... in Comic Sans | `try { } catch { }` empty catch | `rm -rf /` |
+| **Neutral** | Follows conventions | Copy-pastes responsibly | `// TODO: fix later` (never) |
+| **Evil** | Docs in Comic Sans | `try { } catch { }` empty | `rm -rf /` |
 
 *I am somewhere between "Chaotic Good" and "help"* 🧙
 
@@ -282,6 +378,10 @@ Me:   "PO-TAY-TOES!"
 <br>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🏔️ CONNECT WITH ME 🏔️                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏔️ CONNECT WITH THE FELLOWSHIP
 
@@ -293,13 +393,17 @@ Me:   "PO-TAY-TOES!"
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%F0%9F%91%81%EF%B8%8F_The_Eye_Watches-8B0000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0d0d0d)](https://github.com/BELLprime)
-
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-The_Eye_Watches-8B0000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0d0d0d)](https://github.com/BELLprime)
 
 </div>
 
+<br>
+
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      🎬 END CREDITS 🎬                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -314,18 +418,20 @@ Me:   "PO-TAY-TOES!"
 ║                                                   ║
 ║         — Gandalf (about my finals)               ║
 ║                                                   ║
-║   Made with 💍 and sleep deprivation              ║
+║   Made with 💍 and mass sleep deprivation         ║
 ║   No Hobbits were harmed in the making of this    ║
 ║   profile (but my GPA might have been)            ║
 ║                                                   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
-<img src="https://media.giphy.com/media/njYrp176NQsHS/giphy.gif" width="300" alt="LOTR ending" />
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=120&section=footer&text=You%20Shall%20Not%20Pass%20Without%20Starring%20⭐&fontSize=18&fontColor=FFD700&animation=fadeIn" width="100%"/>
+<img src="https://media.giphy.com/media/njYrp176NQsHS/giphy.gif" width="300" alt="LOTR Bow" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=120&section=footer&text=You%20Shall%20Not%20Leave%20Without%20Starring%20%E2%AD%90&fontSize=16&fontColor=FFD700&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -333,8 +439,8 @@ Me:   "PO-TAY-TOES!"
 
 <div align="center">
 
-*⭐ If you liked this profile, "You bow to no one." But maybe drop a star? ⭐*
+*If you liked this profile, "You bow to no one." But maybe drop a star?* ⭐
 
-<img src="https://komarev.com/ghpvc/?username=BELLprime&color=FFD700&style=for-the-badge&label=👁️+THE+EYE+SEES+YOU" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=BELLprime&color=FFD700&style=for-the-badge&label=THE+EYE+SEES+YOU" alt="Profile Views"/>
 
 </div>
